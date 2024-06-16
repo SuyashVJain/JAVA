@@ -2,4 +2,4 @@
 <br>
 Learning JAVA
 <br>
-First try on JAVA
+First try on programing
