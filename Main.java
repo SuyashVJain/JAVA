@@ -31,5 +31,15 @@ public class Main {
             Arrays.sort(marks);
             System.out.println(marks[4]);
             System.out.println(marksfor2[1][3]);
+            System.out.println(" ");
+            System.out.println("Value of PI");
+            final float PI=3.14F;
+            System.out.println(PI);
+            float calcpi1=22;
+            float calcpi2=7;
+            double calcpi=calcpi1/calcpi2;
+            System.out.println(calcpi);
+
+
         }
     }
