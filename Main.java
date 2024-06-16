@@ -36,7 +36,7 @@ public class Main {
             final float PI=3.14F;
             System.out.println(PI);
             float calcpi1=22;
-            float calcpi2=7;
+            byte calcpi2=7;
             double calcpi=calcpi1/calcpi2;
             System.out.println(calcpi);
 
