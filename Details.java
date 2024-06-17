@@ -27,6 +27,7 @@ public class Details {
         System.out.println("2. Phone no.");
         System.out.println("3. Address");
         String output = out.nextLine();
+        System.out.println(" ");
 
         if (null ==output){
             System.out.println("Please enter again");
