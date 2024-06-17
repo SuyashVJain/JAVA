@@ -17,8 +17,8 @@ public class Details {
         String B = Sepreated[1];
         String C = Sepreated[2];
         
-        for (String x:Sepreated){
-            System.out.println(x);}
+        // for (String x:Sepreated){
+        //     System.out.println(x);}
         
         Scanner out = new Scanner(System.in);
         System.out.println(" ");
@@ -32,13 +32,13 @@ public class Details {
             System.out.println("Please enter again");
         } else switch (output) {
             case "Name":
-                System.out.println(A);
+                System.out.println("Name : "+A);
                 break;
             case "Phone no.":
-                System.out.print(B);
+                System.out.print("Phone no.: "+B);
                 break;
             case "Address":
-                System.out.println(C);
+                System.out.println("Address : "+C);
                 break;
             default:
                 System.out.println("Please enter again");
