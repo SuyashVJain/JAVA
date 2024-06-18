@@ -76,45 +76,4 @@ public class Contact {
         }
         return "Address not found";
     }
-    
-
-    // static Array[] detect(){
-    //     String s = "";
-    //     for (String n:split())
-    //         s+= n;
-    //     char[] name = s.toCharArray();
-    //     return null;
-    // }
-    // static String out(){
-    //     Scanner out = new Scanner(System.in);
-    //     System.out.println("\nPlease enter What you want to see?\n1. Name\n2. Phone no.\n3. Address");
-    //     String output = out.nextLine();
-    //     return output;
-    // }
-
-
-        // Scanner out = new Scanner(System.in);
-        // System.out.println(" ");
-        // System.out.println("Please enter What you want to see?");
-        // System.out.println("1. Name");
-        // System.out.println("2. Phone no.");
-        // System.out.println("3. Address");
-        // String output = out.nextLine();
-        
-        // if (null ==output){
-        //     System.out.println("Please enter again");
-        // } else switch (output) {
-        //     case "Name":
-        //         System.out.println("Name : "+A);
-        //         break;
-        //     case "Phone no.":
-        //         System.out.print("Phone no.: "+B2);
-        //         break;
-        //     case "Address":
-        //         System.out.println("Address : "+C);
-        //         break;
-        //     default:
-        //         System.out.println("Please enter again");
-        //         break;
-        // }
 }
